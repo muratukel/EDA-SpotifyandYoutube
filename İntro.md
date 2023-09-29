@@ -56,8 +56,9 @@ Spotify'dan toplanan her şarkı için 26 değişken içermektedir. Bu değişke
 
 ❗ Bu veri setiyle çalışırken veya analiz ederken, verilerin 7 Şubat 2023 tarihinde toplanmasından bu yana sağlanan bilgilerin ve ölçümlerin değişmiş veya gelişmiş olabileceğini akılda tutmak önemlidir. Kullanıcılar, müzik veya video içeriğinin mevcut durumunu tam olarak temsil etmeyebileceğinden, verilere dayanarak sonuç çıkarırken veya çıkarımlarda bulunurken bu zamansal yönü göz önünde bulundurmalıdır.
 
+[Spotify ve YouTube Veri Seti](https://www.kaggle.com/datasets/salvatorerastelli/spotify-and-youtube)
 
-Spotify ve Youtube veri seti ile gerçekleştirdiğim keşifsel veri analizi, müzik tüketim alışkanlıklarını daha iyi anlamak, sanatçıların ve müzik platformlarının performansını incelemek ve geliştirme fırsatlarını belirlemek amacıyla gerçekleştirdiğim bir proje oldu. Bu analizler, müziğin büyüleyici dünyasına daha derin bir bakış açısı sunmayı ve sektördeki değişen dinamikleri anlamamıza yardımcı oldu.
+🎯Spotify ve Youtube veri seti ile gerçekleştirdiğim keşifsel veri analizi, müzik tüketim alışkanlıklarını daha iyi anlamak, sanatçıların ve müzik platformlarının performansını incelemek ve geliştirme fırsatlarını belirlemek amacıyla gerçekleştirdiğim bir proje oldu. Bu analizler, müziğin büyüleyici dünyasına daha derin bir bakış açısı sunmayı ve sektördeki değişen dinamikleri anlamamıza yardımcı oldu.
 
 Jupyter Notebook'ta gerçekleştirdiğim bu projede, veri seti üzerinde detaylı analizler ve görselleştirmeler gerçekleştirdim. Analizler sonucunda ortaya çıkan iyileştirme önerilerini ve fırsatları paylaştım. Bu öneriler, müzik platformları, sanatçılar ve dinleyiciler için daha iyi bir deneyim yaratma potansiyeli taşıyor.
 
