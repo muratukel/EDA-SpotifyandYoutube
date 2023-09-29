@@ -1,4 +1,6 @@
 # Spotify and Youtube 🎤🎬 
+![Image](https://i.ytimg.com/vi/sEX9xIUPfnM/maxresdefault.jpg)
+
 
 ## Veri Seti Hakkında
 
