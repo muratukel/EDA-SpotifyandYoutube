@@ -63,6 +63,6 @@ Jupyter Notebook'ta gerçekleştirdiğim bu projede, veri seti üzerinde detayl�
 
 Bu proje, kariyerimdeki gelişimime olumlu bir katkı sağladı ve veri analizi alanında daha da ilerlemek için motive etti. Gelecekte, daha fazla veri analizi projesine katılmayı ve bu alandaki yeteneklerimi geliştirmeyi hedefliyorum.
 
-Analizimi incelemek ve daha fazla detay öğrenmek için lütfen Jupyter Notebook'a buradan ulaşın. Eğer analizim size ilginç veya yararlı geldiyse, lütfen yıldız vererek destek olmayı unutmayın.
+Analizimi incelemek ve daha fazla detay öğrenmek için lütfen ![Jupyter Notebook Çalışma Dosyama]([https://i.ytimg.com/vi/sEX9xIUPfnM/maxresdefault.jpg](https://github.com/muratukel/EDA-SpotifyandYoutube/blob/main/EDASpotifyandYoutube%20.ipynb)) buradan ulaşın. Eğer analizim size ilginç veya yararlı geldiyse, lütfen yıldız vererek destek olmayı unutmayın.
 
 Sizleri projelerim ve veri analizi yolculuğumda takip etmeye davet ediyorum.
