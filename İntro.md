@@ -27,7 +27,7 @@ Spotify'dan toplanan her şarkı için 26 değişken içermektedir. Bu değişke
 - **Akustiklik (Acousticness)**: Bir şarkının akustik olup olmadığına dair 0.0 ile 1.0 arasında bir güven ölçüsüdür.
 - **Enstrümantallik (Instrumentalness)**: Bir şarkının vokal içerip içermediğini tahmin eder.
 - **Canlılık (Liveness)**: Kayıtta bir izleyici varlığını algılar.
-- - **Duygu Durumu (Valence)**: Bir şarkının 0.0 ile 1.0 arasındaki bir ölçüsüdür ve bir şarkının aktardığı müzikal olumlu duygu derecesini tanımlar. Yüksek valansa sahip şarkılar daha olumlu bir his verir (örneğin, mutlu, neşeli, coşkulu), düşük valansa sahip olanlar ise daha olumsuz bir his verir (örneğin, üzgün, sıkılmış, sinirli).
+- **Duygu Durumu (Valence)**: Bir şarkının 0.0 ile 1.0 arasındaki bir ölçüsüdür ve bir şarkının aktardığı müzikal olumlu duygu derecesini tanımlar. Yüksek valansa sahip şarkılar daha olumlu bir his verir (örneğin, mutlu, neşeli, coşkulu), düşük valansa sahip olanlar ise daha olumsuz bir his verir (örneğin, üzgün, sıkılmış, sinirli).
 - **Tempo**: Şarkının genel tahmini tempo değeri dakikadaki vuruş sayısı (BPM) cinsindendir. Müzik terimleri açısından tempo, verilen bir parçanın hızı veya temposudur ve ortalama vuruş süresinden doğrudan türetilir.
 
 - **Süre_ms (Duration_ms)**: Şarkının süresi milisaniye cinsinden ölçülür.
