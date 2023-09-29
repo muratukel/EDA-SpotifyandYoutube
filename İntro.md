@@ -52,4 +52,4 @@ Spotify'dan toplanan her şarkı için 26 değişken içermektedir. Bu değişke
 
 - **Resmi Video (official_video)**: Şarkının resmi video olup olmadığını gösteren boolean bir değerdir.
 
-* Bu veri setiyle çalışırken veya analiz ederken, verilerin 7 Şubat 2023 tarihinde toplanmasından bu yana sağlanan bilgilerin ve ölçümlerin değişmiş veya gelişmiş olabileceğini akılda tutmak önemlidir. Kullanıcılar, müzik veya video içeriğinin mevcut durumunu tam olarak temsil etmeyebileceğinden, verilere dayanarak sonuç çıkarırken veya çıkarımlarda bulunurken bu zamansal yönü göz önünde bulundurmalıdır.
+❗ Bu veri setiyle çalışırken veya analiz ederken, verilerin 7 Şubat 2023 tarihinde toplanmasından bu yana sağlanan bilgilerin ve ölçümlerin değişmiş veya gelişmiş olabileceğini akılda tutmak önemlidir. Kullanıcılar, müzik veya video içeriğinin mevcut durumunu tam olarak temsil etmeyebileceğinden, verilere dayanarak sonuç çıkarırken veya çıkarımlarda bulunurken bu zamansal yönü göz önünde bulundurmalıdır.
