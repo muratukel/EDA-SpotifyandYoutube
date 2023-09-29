@@ -55,3 +55,14 @@ Spotify'dan toplanan her şarkı için 26 değişken içermektedir. Bu değişke
 - **Resmi Video (official_video)**: Şarkının resmi video olup olmadığını gösteren boolean bir değerdir.
 
 ❗ Bu veri setiyle çalışırken veya analiz ederken, verilerin 7 Şubat 2023 tarihinde toplanmasından bu yana sağlanan bilgilerin ve ölçümlerin değişmiş veya gelişmiş olabileceğini akılda tutmak önemlidir. Kullanıcılar, müzik veya video içeriğinin mevcut durumunu tam olarak temsil etmeyebileceğinden, verilere dayanarak sonuç çıkarırken veya çıkarımlarda bulunurken bu zamansal yönü göz önünde bulundurmalıdır.
+
+
+Spotify ve Youtube veri seti ile gerçekleştirdiğim keşifsel veri analizi, müzik tüketim alışkanlıklarını daha iyi anlamak, sanatçıların ve müzik platformlarının performansını incelemek ve geliştirme fırsatlarını belirlemek amacıyla gerçekleştirdiğim bir proje oldu. Bu analizler, müziğin büyüleyici dünyasına daha derin bir bakış açısı sunmayı ve sektördeki değişen dinamikleri anlamamıza yardımcı oldu.
+
+Jupyter Notebook'ta gerçekleştirdiğim bu projede, veri seti üzerinde detaylı analizler ve görselleştirmeler gerçekleştirdim. Analizler sonucunda ortaya çıkan iyileştirme önerilerini ve fırsatları paylaştım. Bu öneriler, müzik platformları, sanatçılar ve dinleyiciler için daha iyi bir deneyim yaratma potansiyeli taşıyor.
+
+Bu proje, kariyerimdeki gelişimime olumlu bir katkı sağladı ve veri analizi alanında daha da ilerlemek için motive etti. Gelecekte, daha fazla veri analizi projesine katılmayı ve bu alandaki yeteneklerimi geliştirmeyi hedefliyorum.
+
+Analizimi incelemek ve daha fazla detay öğrenmek için lütfen Jupyter Notebook'a buradan ulaşın. Eğer analizim size ilginç veya yararlı geldiyse, lütfen yıldız vererek destek olmayı unutmayın.
+
+Sizleri projelerim ve veri analizi yolculuğumda takip etmeye davet ediyorum.
