@@ -2,7 +2,7 @@
 ![Image](https://i.ytimg.com/vi/sEX9xIUPfnM/maxresdefault.jpg)
 
 
-## Veri Seti Hakkında
+## ℹ️ Veri Seti Hakkında
 
 Dünya çapındaki çeşitli sanatçıların şarkılarının bulunduğu bir veri kümesi ve her şarkı için aşağıdaki bilgiler bulunmaktadır:
 
