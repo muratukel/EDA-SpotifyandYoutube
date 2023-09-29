@@ -1,4 +1,4 @@
-# Spotify and Youtube 🎤🎬 
+# Spotify ve Youtube Keşifsel Veri Analizi 🎤🎬 
 ![Image](https://i.ytimg.com/vi/sEX9xIUPfnM/maxresdefault.jpg)
 
 
